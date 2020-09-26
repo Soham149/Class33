@@ -1,2 +1,2 @@
-# Class33
-We fixed some bugs in the game.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
